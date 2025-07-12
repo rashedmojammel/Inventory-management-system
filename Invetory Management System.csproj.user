@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminAddCatagories.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminAddProducts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="adminAddusers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminAdduUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminViewDonations.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="availableProducts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CashierCustomerForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CashierMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CashierOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomerDoner.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomerEditProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomerMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerPlaceOrders.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ProductGallery.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="WishList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
